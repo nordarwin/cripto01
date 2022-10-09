@@ -59,13 +59,6 @@
     Click on the Vite and Svelte logos to learn more
   </p>
 
-  <input
-    type="text"
-    class="form-control bg-dark text-white rounded-0 border-0 my-4"
-    bind:value={textSearch}
-    on:keyup={({ target: { value } }) => searchCoin(value)}
-    bind:this={ref}
-  />
 
   <h1>CoinMarket</h1>
   <table class="table table-dark table-hover">
