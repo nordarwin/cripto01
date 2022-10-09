@@ -16,6 +16,7 @@
   "dependencies": {
     "bootstrap": "^5.2.2",
     "bootswatch": "^5.2.1",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "gh-pages-deploy": "^0.1.1"
   }
 }
